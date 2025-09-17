@@ -7,6 +7,7 @@
 
 | #  | Challenge Name                | Status | Link (relative)                  |
 |----|-------------------------------|:------:|----------------------------------|
+| Easy level                                                                     |
 | 01 | TheNumbers                    | ✅ Done | The Numbers                    |
 | 02 | Challenge_02_Name             | ✅ Done | Mod 26                         |
 | 03 | Challenge_03_Name             | ✅ Done | 13                             |
