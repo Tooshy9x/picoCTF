@@ -20,6 +20,6 @@ Each challenge folder contains:
 | Cryptography        | 1      | 50     |
 | Forensics           | 0      | 30     |
 | Reverse Engineering | 0      | 30     |
-| Total               | 1      | ~120   |
+| Total               | 1      | ~110   |
 
 ---
