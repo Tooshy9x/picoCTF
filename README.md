@@ -1,3 +1,3 @@
 # picoCTF
 
-### Picoctf platform CTF solutions with flags
+### 🎯 Picoctf platform CTF solutions with flags
