@@ -59,5 +59,4 @@
 | 50 | Challenge_50_Name             | ❌ Not started | Challenge_50_Name/      |
 
 ---
-| 43 | Challenge_43_Name             | ❌ Not started | Challenge_43_Name/      |
 
