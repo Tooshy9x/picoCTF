@@ -9,7 +9,7 @@
 |----|-------------------------------|:------:|----------------------------------|
 | 01 | TheNumbers                    | ✅ Done | The Numbers                    |
 | 02 | Challenge_02_Name             | ✅ Done | Mod 26                         |
-| 03 | Challenge_03_Name             | ❌ Not started | Challenge_03_Name/      |
+| 03 | Challenge_03_Name             | ✅ Done | 13                             |
 | 04 | Challenge_04_Name             | ❌ Not started | Challenge_04_Name/      |
 | 05 | Challenge_05_Name             | ❌ Not started | Challenge_05_Name/      |
 | 06 | Challenge_06_Name             | ❌ Not started | Challenge_06_Name/      |
