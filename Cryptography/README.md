@@ -7,7 +7,7 @@
 
 | #  | Challenge Name                | Status | Link (relative)                  |
 |----|-------------------------------|:------:|----------------------------------|
-| 01 | TheNumbers                    | ✅ Done | TheNumbers/README.md           |
+| 01 | TheNumbers                    | ✅ Done | The Numbers                    |
 | 02 | Challenge_02_Name             | ❌ Not started | Challenge_02_Name/      |
 | 03 | Challenge_03_Name             | ❌ Not started | Challenge_03_Name/      |
 | 04 | Challenge_04_Name             | ❌ Not started | Challenge_04_Name/      |
