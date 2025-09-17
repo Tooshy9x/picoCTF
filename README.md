@@ -18,10 +18,8 @@ Each challenge folder contains:
 | Category            | Solved | Target |
 |---------------------|:------:|:------:|
 | Cryptography        | 1      | 50     |
-| Binary Exploitation | 0      | 40     |
-| Web Exploitation    | 0      | 40     |
 | Forensics           | 0      | 30     |
 | Reverse Engineering | 0      | 30     |
-| Total           | 1      | ~190   |
+| Total               | 1      | ~120   |
 
 ---
