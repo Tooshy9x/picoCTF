@@ -17,9 +17,9 @@ Each challenge folder contains:
 ## 📊 Progress (example)
 | Category            | Solved | Target |
 |---------------------|:------:|:------:|
-| Cryptography        | 1      | 50     |
+| Cryptography        | 2      | 50     |
 | Forensics           | 0      | 30     |
 | Reverse Engineering | 0      | 30     |
-| Total               | 1      | ~110   |
+| Total               | 2      | ~110   |
 
 ---
