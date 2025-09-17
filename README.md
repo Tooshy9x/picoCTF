@@ -18,8 +18,9 @@ Each challenge folder contains:
 | Category            | Solved | Target |
 |---------------------|:------:|:------:|
 | Cryptography        | 3      | 50     |
-| Forensics           | 0      | 30     |
-| Reverse Engineering | 0      | 30     |
-| Total               | 3      | ~110   |
+| Forensics           | 0      | 70     |
+| Reverse Engineering | 0      | 75     |
+| General Skills      | 0      | 55     |
+| Total               | 3      | ~250   |
 
 ---
