@@ -43,3 +43,34 @@ use this web to decod the chipher https://rot13.com/ and use ROT19
 
 
 ##  Get the flag - python script solution
+
+``` #!/usr/bin/python
+
+import string
+
+alphabet = string.ascii_lowercase
+alpha_len = len(alphabet)
+
+def shift(cipher_text, key):
+    result = ''
+    for c in cipher_text:
+        if c.islower():
+            result += alphabet[(alphabet.index(c) + key) % alpha_len]
+        elif c.isupper():
+            result += alphabet[(alphabet.index(c.lower()) + key) % alpha_len].upper()
+        else:
+            result += c
+    return result
+
+# Encrypted data after base64-decoding (twice)
+enc_data = 'wpjvJAM{jhlzhy_k3jy9wa3k_86kl32k2}'
+
+for i in range(1, alpha_len+1):
+    plain = shift(enc_data, i)
+    if ('picoCTF' in plain):
+        print("ROT-%02d: %s" % (i, plain))
+ ```
+<img width="371" height="64" alt="Image" src="https://github.com/user-attachments/assets/1155b5cd-8805-4092-9c06-b2966c8146a0" />
+
+
+
