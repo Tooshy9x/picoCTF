@@ -15,6 +15,7 @@ Challenge link: https://play.picoctf.org/practice/challenge/418?category=2&page=
 # Solution
 
 The first step :
+
 <img width="597" height="132" alt="Image" src="https://github.com/user-attachments/assets/dcfe3ef0-1427-417e-9308-790738446543" />
 commaned =  ``` cat enc_flag | base64 -d ```
 cipher is = ```  d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzg2a2wzMmsyfQ== ```
