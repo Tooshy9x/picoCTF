@@ -9,5 +9,6 @@ You can use the web tools to solve this CTF 👉 ( https://rot13.com/ )
 
 and use ROT13 ,  he will give you the flag 👉  picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}
 
-![solve of ROT13](images/1.jpg)
+## Screenshot                                               
+solve of ROT13  👉 https://github.com/Tooshy9x/picoCTF/blob/6e7afde5a884ba85a622703699e2599538c9efbe/Cryptography/images/1.jpg
     
