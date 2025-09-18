@@ -14,7 +14,7 @@ Each challenge folder contains:
 
 ---
 
-## 📊 Progress (example)
+## 📊 Progress 
 | Category            | Solved | Target |
 |---------------------|:------:|:------:|
 | Cryptography        | 4      | 50     |
