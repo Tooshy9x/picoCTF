@@ -9,7 +9,7 @@
 |----|-------------------------------|:------:|----------------------------------|
 | Easy level                                                                     |
 | 01 | TheNumbers                    | ✅ Done | The Numbers                    |
-| 02 | Challenge_02_Name             | ✅ Done | Mod 26                         |
+| 02 | Challenge_02_Name             | ✅ Done | Mod 26.md                      |
 | 03 | Challenge_03_Name             | ✅ Done | 13                             |
 | 04 | Challenge_04_Name             | ❌ Not started | Challenge_04_Name/      |
 | 05 | Challenge_05_Name             | ❌ Not started | Challenge_05_Name/      |
