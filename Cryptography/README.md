@@ -8,9 +8,9 @@
 | #  | Challenge Name                | Status | Link (relative)                  |
 |----|-------------------------------|:------:|----------------------------------|
 | Easy level                                                                     |
-| 01 | TheNumbers                    | ✅ Done | The Numbers                    |
+| 01 | TheNumbers                    | ✅ Done | The Numbers.md                 |
 | 02 | Challenge_02_Name             | ✅ Done | Mod 26.md                      |
-| 03 | Challenge_03_Name             | ✅ Done | 13                             |
+| 03 | Challenge_03_Name             | ✅ Done | 13.md                          |
 | 04 | Challenge_04_Name             | ❌ Not started | Challenge_04_Name/      |
 | 05 | Challenge_05_Name             | ❌ Not started | Challenge_05_Name/      |
 | 06 | Challenge_06_Name             | ❌ Not started | Challenge_06_Name/      |
