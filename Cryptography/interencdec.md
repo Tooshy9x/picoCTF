@@ -41,4 +41,5 @@ use this web to decod the chipher https://rot13.com/ and use ROT19
   
 <img width="947" height="488" alt="Image" src="https://github.com/user-attachments/assets/7dec5fde-1828-4943-b4e4-63fbd774ef15" />
 
-  
+
+#  Get the flag - python script solution
