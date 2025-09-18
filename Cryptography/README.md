@@ -8,7 +8,7 @@
 | #  | Challenge Name                | Status | Link (relative)                  |
 |----|-------------------------------|:------:|----------------------------------|
 | Easy level                                                                     |
-| 01 | TheNumbers                    |  Done | [TheNumbers](https://github.com/Tooshy9x/picoCTF/blob/8cb47e762629e803138cbe249fe2efc914e095ca/Cryptography/The%20Numbers.md)   |
+| 01 | TheNumbers                    | ✅ Done | [TheNumbers](https://github.com/Tooshy9x/picoCTF/blob/8cb47e762629e803138cbe249fe2efc914e095ca/Cryptography/The%20Numbers.md)   |
 | 02 | Mod 26.md                     | ✅ Done | [mod26](https://github.com/Tooshy9x/picoCTF/blob/cd6bd0c3fec90c7dfbe00e90fac100d3eb410be7/Cryptography/Mod%2026.md)      |
 | 03 | 13.md                         | ✅ Done | [13](https://github.com/Tooshy9x/picoCTF/blob/b1642611dd3b051c5d92d19c00dd41dec175d796/Cryptography/13.md)        |
 | 04 | interencdec.md                | ✅ Done | [interencdec](https://github.com/Tooshy9x/picoCTF/blob/229d27d4bed46fd13cc2fcd4847d8892ea82aa59/Cryptography/interencdec.md)   |
