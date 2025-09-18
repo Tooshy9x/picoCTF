@@ -7,14 +7,14 @@ Author: NGIRIMANA SCHADRACK
 # cipher
 Can you get the real meaning from this
 ```
- a = 90
- b = 26
-cipher is: [61578, 109472, 437888, 6842, 0,20526, 129998, 526834, 478940, 287364, 0,
- 567886, 143682, 34210, 465256,0, 150524, 588412, 6842, 424204, 164208, 184734, 41052,
- 41052, 116314, 41052, 177892, 348942, 218944, 335258, 177892, 47894, 82104, 116314]
+YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclgya3lNRFJvYTJvMmZRPT0nCg==
  ```
 
 Challenge link: https://play.picoctf.org/practice/challenge/418?category=2&page=1
 
+# Solution
+<img width="597" height="132" alt="Image" src="https://github.com/user-attachments/assets/dcfe3ef0-1427-417e-9308-790738446543" />
 
-
+commaned = ``` cat enc_flag | base64 -d ```
+   
+  
