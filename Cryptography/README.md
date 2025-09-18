@@ -8,8 +8,8 @@
 | #  | Challenge Name                | Status | Link (relative)                  |
 |----|-------------------------------|:------:|----------------------------------|
 | Easy level                                                                     |
-| 01 | TheNumbers                    | ✅ Done | The Numbers.md                 |
-| 02 | Challenge_02_Name             | ✅ Done | Mod 26.md                      |
+| 01 | TheNumbers                    | ✅ Done | https://github.com/Tooshy9x/picoCTF/blob/8cb47e762629e803138cbe249fe2efc914e095ca/Cryptography/The%20Numbers.md    |
+| 02 | Mod 26.md                     | ✅ Done |                                |
 | 03 | Challenge_03_Name             | ✅ Done | 13.md                          |
 | 04 | Challenge_04_Name             | ❌ Not started | Challenge_04_Name/      |
 | 05 | Challenge_05_Name             | ❌ Not started | Challenge_05_Name/      |
