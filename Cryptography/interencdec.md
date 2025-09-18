@@ -22,4 +22,8 @@ commaned =  ``` cat enc_flag | base64 -d ```
 
 cipher is = ```  d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzg2a2wzMmsyfQ== ```
 
+Step two : 
+
+use this web : https://www.base64encode.org
+
   
