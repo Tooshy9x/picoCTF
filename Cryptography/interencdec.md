@@ -24,6 +24,9 @@ cipher is = ```  d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzg2a2wzMmsyfQ== ```
 
 Step two : 
 
-use this web : https://www.base64encode.org
+use this web : https://www.base64encode.org   to decode this cipher 
+
+<img width="982" height="501" alt="Image" src="https://github.com/user-attachments/assets/f0e7c1d0-9a99-4598-9e6d-947d511d3b5f" />
+
 
   
