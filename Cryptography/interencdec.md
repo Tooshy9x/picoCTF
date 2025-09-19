@@ -35,11 +35,11 @@ step three :
 new cipher is ROT13 
 use this web to decod the chipher https://rot13.com/ and use ROT19
 
-<img width="712" height="713" alt="Image" src="https://github.com/user-attachments/assets/60bd809a-bb7c-4dc5-8503-9d66f1bbfa48" />
+<img width="667" height="666" alt="Image" src="https://github.com/user-attachments/assets/479eb3fc-9ce3-46e6-aed5-ca53f9d78a56" />
 
-  The flags is ``` picoCTF{caesar_d3cr9pt3d_86de32d2} ```
+  The flags is ``` picoCTF{.....} ```
   
-<img width="947" height="488" alt="Image" src="https://github.com/user-attachments/assets/7dec5fde-1828-4943-b4e4-63fbd774ef15" />
+<img width="943" height="482" alt="Image" src="https://github.com/user-attachments/assets/2d06df3c-dba9-4ac6-bb1c-ae9a137467d4" />
 
 
 ##  Get the flag - python script solution
@@ -71,7 +71,7 @@ for i in range(1, alpha_len+1):
     if ('picoCTF' in plain):
         print("ROT-%02d: %s" % (i, plain))
  ```
-<img width="371" height="64" alt="Image" src="https://github.com/user-attachments/assets/1155b5cd-8805-4092-9c06-b2966c8146a0" />
 
+<img width="369" height="64" alt="Image" src="https://github.com/user-attachments/assets/5c2461b2-93c4-433f-b93b-bd2a70df8040" />
 
 
