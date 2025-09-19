@@ -8,9 +8,9 @@ The numbers... what do they mean?
 It is calculated by arranging the alphabatical sequence 
 A=1  B=2  C=3  D=4 ...etc 
 
-so the flag is = " picoctf{the numbers tmason} "
+so the flag is = " picoctf{.....} "
 
-<img width="954" height="466" alt="Image" src="https://github.com/user-attachments/assets/f46ceadf-4713-4b57-a5c9-98a608e23d4f" />
+<img width="950" height="461" alt="Image" src="https://github.com/user-attachments/assets/6849bdce-1205-44a0-bb26-9d3b782f7d3a" />
 
 ## Get the flag - python script solution
 ```
@@ -38,7 +38,5 @@ flag = "picoctf{" + numbers_to_text(numbers[7:]) + "}"
 print("Flag:", flag)
 ```
 
-<img width="320" height="62" alt="Image" src="https://github.com/user-attachments/assets/33900e7f-60e9-4534-b2ea-58e49b48ec14" />
 
-
-
+<img width="320" height="62" alt="Image" src="https://github.com/user-attachments/assets/178b547f-cba0-4dc2-b9fc-807c44bc28ac" />
