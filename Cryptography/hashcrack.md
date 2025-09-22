@@ -1,4 +1,4 @@
-# !(hashcrack)[https://play.picoctf.org/practice/challenge/475?category=2&originalEvent=74&page=1]
+# (hashcrack)[https://play.picoctf.org/practice/challenge/475?category=2&originalEvent=74&page=1]
 
 ## Description
 
