@@ -41,6 +41,8 @@ After submitting the last cracked password, the server prints the flag.
 
 <img width="785" height="315" alt="Image" src="https://github.com/user-attachments/assets/6b69b45f-5665-456d-a7b1-2db8c04664f7" />
 
+<img width="705" height="555" alt="Image" src="https://github.com/user-attachments/assets/5d50049e-cc93-4bfe-a82a-8a3b0ae12cec" />
+
 ## Useful Notes
 
 _Always verify the hash length to determine the correct algorithm.
