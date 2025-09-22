@@ -12,7 +12,7 @@
 | 02 | Mod 26.md                     | ✅ Done | [mod26](https://github.com/Tooshy9x/picoCTF/blob/ddd2ea07c3e180ce0b4a07e662887f63af8c6ff5/Cryptography/Mod%2026.md)      |
 | 03 | 13.md                         | ✅ Done | [13](https://github.com/Tooshy9x/picoCTF/blob/6c3f65e1457a84b22e72c39f56b7515e2068ed80/Cryptography/13.md)        |
 | 04 | interencdec.md                | ✅ Done | [interencdec](https://github.com/Tooshy9x/picoCTF/blob/6c3f65e1457a84b22e72c39f56b7515e2068ed80/Cryptography/interencdec.md)   |
-| 05 | Challenge_05_Name             | ❌ Not started | Challenge_05_Name/      |
+| 05 | hashcrack.md                  | ✅ Done |   [hashcrack](https://github.com/Tooshy9x/picoCTF/blob/aa7ed97bca322667387955ee6ba59cf4e3469d78/Cryptography/hashcrack.md)   |
 | 06 | Challenge_06_Name             | ❌ Not started | Challenge_06_Name/      |
 | 07 | Challenge_07_Name             | ❌ Not started | Challenge_07_Name/      |
 | 08 | Challenge_08_Name             | ❌ Not started | Challenge_08_Name/      |
