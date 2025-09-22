@@ -1,5 +1,3 @@
-# (hashcrack)[https://play.picoctf.org/practice/challenge/475?category=2&originalEvent=74&page=1]
-
 ## Description
 
 A company stored a secret message on a server that got breached because the admin used weakly hashed passwords.
