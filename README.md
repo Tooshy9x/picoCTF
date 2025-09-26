@@ -21,6 +21,6 @@ Each challenge folder contains:
 | Forensics           | 0      | 70     |
 | Reverse Engineering | 0      | 75     |
 | General Skills      | 0      | 55     |
-| Total               | 5      | ~250   |
+| Total               | 6      | ~250   |
 
 ---
