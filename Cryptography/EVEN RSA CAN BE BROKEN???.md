@@ -49,7 +49,7 @@ if __name__ == "__main__":
     exit()
 ```
 
-## The solution
+## The solution 1
 1. connect : ``` $ nc verbal-sleep.picoctf.net ??  ```
    and he give me the code :
 ```
@@ -61,6 +61,44 @@ cyphertext: 13474024218076029057296464231674421215159005842399798083665278661287
 2. use this web [RSI cipher](https://www.dcode.fr/rsa-cipher) and enter cipher
    
    <img width="1696" height="555" alt="Image" src="https://github.com/user-attachments/assets/dffde4c0-c9ab-4824-9c3c-897083a0c111" />
+   
+--------------
+
+## The solution 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="690" height="465" alt="Image" src="https://github.com/user-attachments/assets/802766f8-392c-48f4-a872-336d315e8a52" />
 
 
 
