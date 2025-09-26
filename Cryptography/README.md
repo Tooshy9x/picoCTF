@@ -13,7 +13,7 @@
 | 03 | 13.md                         | ✅ Done | [13](https://github.com/Tooshy9x/picoCTF/blob/6c3f65e1457a84b22e72c39f56b7515e2068ed80/Cryptography/13.md)        |
 | 04 | interencdec.md                | ✅ Done | [interencdec](https://github.com/Tooshy9x/picoCTF/blob/6c3f65e1457a84b22e72c39f56b7515e2068ed80/Cryptography/interencdec.md)   |
 | 05 | hashcrack.md                  | ✅ Done |   [hashcrack](https://github.com/Tooshy9x/picoCTF/blob/aa7ed97bca322667387955ee6ba59cf4e3469d78/Cryptography/hashcrack.md)   |
-| 06 | Challenge_06_Name             | ✅ Done| [](https://github.com/Tooshy9x/picoCTF/blob/9dc310190ff91328cf853759d4df801541aa268f/Cryptography/EVEN%20RSA%20CAN%20BE%20BROKEN%3F%3F%3F.md)      |
+| 06 | EVEN RSA CAN BE BROKEN???.md           | ✅ Done| [EVEN RSA CAN BE BROKEN???](https://github.com/Tooshy9x/picoCTF/blob/9dc310190ff91328cf853759d4df801541aa268f/Cryptography/EVEN%20RSA%20CAN%20BE%20BROKEN%3F%3F%3F.md)    |
 | 07 | Challenge_07_Name             | ❌ Not started | Challenge_07_Name/      |
 | 08 | Challenge_08_Name             | ❌ Not started | Challenge_08_Name/      |
 | 09 | Challenge_09_Name             | ❌ Not started | Challenge_09_Name/      |
