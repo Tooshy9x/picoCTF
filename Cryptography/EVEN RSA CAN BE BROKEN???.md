@@ -3,6 +3,7 @@
 
 ## Challenge information
 ```
+(use RSI cipher)
 Easy , Cryptography , picoCTF , browser_webshell_solvable
 Author: Michael Crotty
 This service provides you an encrypted flag. Can you decrypt it with just N & e?
@@ -49,7 +50,7 @@ if __name__ == "__main__":
 ```
 
 ## The solution
-1. connect : ``` $ nc verbal-sleep.picoctf.net 62291  ```
+1. connect : ``` $ nc verbal-sleep.picoctf.net ??  ```
    and he give me the code :
 ```
    root@DESKTOP-B0U1BDJ:~#  nc verbal-sleep.picoctf.net 58854
@@ -57,6 +58,28 @@ N:201477904256664383274403905045602801588058347876283658074744449873215182125344
 e: 65537
 cyphertext: 13474024218076029057296464231674421215159005842399798083665278661287842146443907321109335984684872602107647348553219050944624270082319009725155878336957085
 ```
+2. use this web [RSI cipher](https://www.dcode.fr/rsa-cipher) and enter cipher
+   
+   <img width="1696" height="555" alt="Image" src="https://github.com/user-attachments/assets/dffde4c0-c9ab-4824-9c3c-897083a0c111" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
 
