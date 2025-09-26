@@ -78,65 +78,31 @@ cyphertext: 13474024218076029057296464231674421215159005842399798083665278661287
 
     <img width="939" height="191" alt="Image" src="https://github.com/user-attachments/assets/16acce1d-80d8-46f7-a008-003532b34b4d" />
 
-    and pest in P
-   and q is 2
-   
-   
+    and pest in p   ,  and q is 2 becouse N is even nember
 
 
+``` d = inverse(e, (p-1)*(q-1)) #the private key  ```
 
+note :
+```
+P = prime number 1
+Q = prime number 2
+N = encryption exponent ( part of public key )
+D = privite key 
+```
 
+### The script to solution cipher :
+```
+from Crypto.Util.number import long_to_bytes, inverse
+p = 10073895212833219163720195252280140079402917393814182903737222493660759106267232746081645577486266204966527187393872508719219060968572894002204693771435123
+q = 2
+e = 65537
+d = inverse(e, (p - 1) * (q - 1))  # the private key
+encrypted_message = 13474024218076029057296464231674421215159005842399798083665278661287842146443907321109335984684872602107647348553219050944624270082319009725155878336957085
+decripted_message = pow(encrypted_message,d,p*q) # (encrypted message ^ private key ) mod N , N is product of q and p
+print (long_to_bytes(decripted_message).decode())
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1904" height="551" alt="Image" src="https://github.com/user-attachments/assets/b0f0293f-56c0-421c-aa46-64c87ddd0a46" />
 
 <img width="690" height="465" alt="Image" src="https://github.com/user-attachments/assets/802766f8-392c-48f4-a872-336d315e8a52" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
