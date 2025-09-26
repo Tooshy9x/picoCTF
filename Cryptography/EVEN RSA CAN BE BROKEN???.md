@@ -73,7 +73,15 @@ N:201477904256664383274403905045602801588058347876283658074744449873215182125344
 e: 65537
 cyphertext: 13474024218076029057296464231674421215159005842399798083665278661287842146443907321109335984684872602107647348553219050944624270082319009725155878336957085
 ```
-2. We analyze the value of n by [factordb](https://factordb.com/)
+2. We analyze the value of n by [factordb](https://factordb.com/) and we make sure we have even number after more connect in  ``` nc verbal-sleep.picoctf.net 58854 ``` 
+    <img width="945" height="199" alt="Image" src="https://github.com/user-attachments/assets/422fab05-89a8-45af-8fda-8fbbc6610858" />
+
+    <img width="939" height="191" alt="Image" src="https://github.com/user-attachments/assets/16acce1d-80d8-46f7-a008-003532b34b4d" />
+
+    and pest in P
+   and q is 2
+   
+   
 
 
 
