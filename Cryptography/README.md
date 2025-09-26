@@ -7,14 +7,14 @@
 
 | #  | Challenge Name                | Status | Link (relative)                  |
 |----|-------------------------------|:------:|----------------------------------|
-| Easy level                                                                     |
+| 🌻 Easy level                                                                     |
 | 01 | TheNumbers                    | ✅ Done | [TheNumbers](https://github.com/Tooshy9x/picoCTF/blob/3c8d83c58638b092c6612aa928a0b78249d5662c/Cryptography/The%20Numbers.md)   |
 | 02 | Mod 26.md                     | ✅ Done | [mod26](https://github.com/Tooshy9x/picoCTF/blob/ddd2ea07c3e180ce0b4a07e662887f63af8c6ff5/Cryptography/Mod%2026.md)      |
 | 03 | 13.md                         | ✅ Done | [13](https://github.com/Tooshy9x/picoCTF/blob/6c3f65e1457a84b22e72c39f56b7515e2068ed80/Cryptography/13.md)        |
 | 04 | interencdec.md                | ✅ Done | [interencdec](https://github.com/Tooshy9x/picoCTF/blob/6c3f65e1457a84b22e72c39f56b7515e2068ed80/Cryptography/interencdec.md)   |
 | 05 | hashcrack.md                  | ✅ Done |   [hashcrack](https://github.com/Tooshy9x/picoCTF/blob/aa7ed97bca322667387955ee6ba59cf4e3469d78/Cryptography/hashcrack.md)   |
 | 06 | EVEN RSA CAN BE BROKEN???.md  | ✅ Done | [EVEN RSA CAN BE BROKEN???](https://github.com/Tooshy9x/picoCTF/blob/9dc310190ff91328cf853759d4df801541aa268f/Cryptography/EVEN%20RSA%20CAN%20BE%20BROKEN%3F%3F%3F.md)    |
-| medium level                                                                   |
+| 🔥 medium level                                                                   |
 | 07 | Challenge_07_Name             | ❌ Not started | Challenge_07_Name/      |
 | 08 | Challenge_08_Name             | ❌ Not started | Challenge_08_Name/      |
 | 09 | Challenge_09_Name             | ❌ Not started | Challenge_09_Name/      |
