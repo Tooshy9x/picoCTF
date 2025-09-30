@@ -18,7 +18,7 @@
 | 06 | EVEN RSA CAN BE BROKEN???.md  | ✅ Done | [EVEN RSA CAN BE BROKEN???](https://github.com/Tooshy9x/picoCTF/blob/9dc310190ff91328cf853759d4df801541aa268f/Cryptography/EVEN%20RSA%20CAN%20BE%20BROKEN%3F%3F%3F.md)    |
 | 🔥 medium level                                                               |
 | 07 | rotation.md                   | ✅ Done | [rotation](https://github.com/Tooshy9x/picoCTF/blob/2c19db727d537fa733496bed80e83d82ce8470ed/Cryptography/rotation.md)     |
-| 08 | Challenge_08_Name             | ❌ Not started | Challenge_08_Name/      |
+| 08 | Custom encryption.md          | ✅ Done | [Custom encryption](https://github.com/Tooshy9x/picoCTF/blob/8f9ed2fc42a58c57854fc46f91c5db0e2a53e8a6/Cryptography/Custom%20encryption.md)   |
 | 09 | Challenge_09_Name             | ❌ Not started | Challenge_09_Name/      |
 | 10 | Challenge_10_Name             | ❌ Not started | Challenge_10_Name/      |
 | 11 | Challenge_11_Name             | ❌ Not started | Challenge_11_Name/      |
