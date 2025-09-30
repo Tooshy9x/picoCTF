@@ -5,7 +5,7 @@
 🔥Medium
 👑Hard
 
-| #  | Challenge Name                | Status | Link (relative)                  |
+| #  | Challenge Name                | Status | Link                            |
 |----|-------------------------------|:------:|----------------------------------|
 | 🌻 Easy level                                                                 |
 | 01 | TheNumbers                    | ✅ Done | [TheNumbers](https://github.com/Tooshy9x/picoCTF/blob/3c8d83c58638b092c6612aa928a0b78249d5662c/Cryptography/The%20Numbers.md)   |
