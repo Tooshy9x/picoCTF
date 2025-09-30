@@ -1,6 +1,8 @@
 # Cryptography
 🎯 The solutions of cryptography in picoctf with flags
 
+اسوي شرح شنو يعني تشفير بالكامل و و انواعه
+
 🌻Easy
 🔥Medium
 👑Hard
